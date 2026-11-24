@@ -1,5 +1,6 @@
 # Hello Git
 My First Git Repo
+New line added
 
 # Edit Below this Line
 # --------------------
